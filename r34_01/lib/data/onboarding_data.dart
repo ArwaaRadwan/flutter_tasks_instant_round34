@@ -1,4 +1,4 @@
-import 'package:grocery_app/entities/onboarding_entity.dart';
+import 'package:r34_01/entities/onboarding_entity.dart';
 
 final List<OnboardingEntity> onboardingData = [
   OnboardingEntity(

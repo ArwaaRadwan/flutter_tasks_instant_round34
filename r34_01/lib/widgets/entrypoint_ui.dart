@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
-import 'package:grocery_app/screens/home_page.dart';
+import 'package:r34_01/screens/home_page.dart';
 
 
 class EntryPointUi extends StatefulWidget {

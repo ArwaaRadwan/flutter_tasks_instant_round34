@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/entities/product_entity.dart';
+import 'package:r34_01/entities/product_entity.dart';
 
 class ProductDetailsPage extends StatelessWidget {
   final ProductEntity product;

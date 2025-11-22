@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/widgets/entrypoint_ui.dart';
-import 'package:grocery_app/widgets/name_style.dart';
-import 'package:grocery_app/core/utils/validators.dart';
-import 'package:grocery_app/widgets/login_page/buttons.dart';
-import 'package:grocery_app/widgets/login_page/login_page_form.dart';
-import 'package:grocery_app/widgets/login_page/social_buttons.dart';
+import 'package:r34_01/core/utils/validators.dart';
+import 'package:r34_01/widgets/entrypoint_ui.dart';
+import 'package:r34_01/widgets/login_page/buttons.dart';
+import 'package:r34_01/widgets/login_page/login_page_form.dart';
+import 'package:r34_01/widgets/login_page/social_buttons.dart';
+import 'package:r34_01/widgets/name_style.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

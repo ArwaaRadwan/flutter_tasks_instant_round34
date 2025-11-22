@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/entities/product_entity.dart';
-import 'package:grocery_app/screens/product_details_page.dart';
+import 'package:r34_01/entities/product_entity.dart';
+import 'package:r34_01/screens/product_details_page.dart';
 
 class BoxElements extends StatelessWidget {
   final ProductEntity product;

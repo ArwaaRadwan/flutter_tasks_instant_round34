@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/data/data.dart';
-import 'package:grocery_app/widgets/home_page/home_category.dart';
-import 'package:grocery_app/widgets/home_page/slider.dart';
-import 'package:grocery_app/widgets/name_style.dart';
-import 'package:grocery_app/widgets/home_page/drawer.dart';
+import 'package:r34_01/data/data.dart';
+import 'package:r34_01/widgets/home_page/drawer.dart';
+import 'package:r34_01/widgets/home_page/home_category.dart';
+import 'package:r34_01/widgets/home_page/slider.dart';
+import 'package:r34_01/widgets/name_style.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

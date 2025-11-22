@@ -1,4 +1,4 @@
-import 'package:grocery_app/entities/product_entity.dart';
+import 'package:r34_01/entities/product_entity.dart';
 //  الكلاس ده هو model اللي بتجيلنا من الإنترنت (API)، وبيورث الأساسيات من ProductEntity.
 class ProductModel extends ProductEntity {
   // 🇪🇬 ده مفتاح عمل استمارة منتج جديدة، ولازم نمرر له كل البيانات دي.

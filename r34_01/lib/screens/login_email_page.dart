@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-
-import 'package:grocery_app/widgets/name_style.dart';
-import 'package:grocery_app/screens/login_page.dart';
-import 'package:grocery_app/widgets/login_page/buttons.dart';
-import 'package:grocery_app/widgets/login_page/inkwell_buttons.dart';
+import 'package:r34_01/screens/login_page.dart';
+import 'package:r34_01/widgets/login_page/buttons.dart';
+import 'package:r34_01/widgets/login_page/inkwell_buttons.dart';
+import 'package:r34_01/widgets/name_style.dart';
 
 class LoginEmailPage extends StatelessWidget {
   const LoginEmailPage({super.key});

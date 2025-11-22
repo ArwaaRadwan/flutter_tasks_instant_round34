@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:grocery_app/widgets/home_page/container_home.dart';
+import 'package:r34_01/widgets/home_page/container_home.dart';
 
 class SliderContainer extends StatefulWidget {
   const SliderContainer({super.key});

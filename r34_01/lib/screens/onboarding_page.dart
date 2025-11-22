@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/data/onboarding_data.dart';
-import 'package:grocery_app/screens/welcome_page.dart';
-import 'package:grocery_app/widgets/onboarding_page/circular_next_button.dart';
+import 'package:r34_01/data/onboarding_data.dart';
+import 'package:r34_01/screens/welcome_page.dart';
+import 'package:r34_01/widgets/onboarding_page/circular_next_button.dart';
 
 
 

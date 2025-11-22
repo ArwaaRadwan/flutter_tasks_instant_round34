@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/entities/product_entity.dart';
-import 'package:grocery_app/widgets/home_page/box_elements.dart';
+import 'package:r34_01/entities/product_entity.dart';
+import 'package:r34_01/widgets/home_page/box_elements.dart';
 
 
 class HomeCategory extends StatelessWidget {

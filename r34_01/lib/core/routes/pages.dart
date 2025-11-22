@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-
-import 'package:grocery_app/core/routes/names.dart';
-import 'package:grocery_app/widgets/entrypoint_ui.dart';
-import 'package:grocery_app/screens/home_page.dart';
-import 'package:grocery_app/screens/login_page.dart';
+import 'package:r34_01/core/routes/names.dart';
+import 'package:r34_01/screens/home_page.dart';
+import 'package:r34_01/screens/login_page.dart';
+import 'package:r34_01/widgets/entrypoint_ui.dart';
 
 
 class AppRouter {

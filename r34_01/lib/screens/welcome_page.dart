@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_app/screens/login_email_page.dart';
-import 'package:grocery_app/widgets/login_page/buttons.dart';
+import 'package:r34_01/screens/login_email_page.dart';
+import 'package:r34_01/widgets/login_page/buttons.dart';
 
 class WelcomePage extends StatelessWidget {
   const WelcomePage({super.key});

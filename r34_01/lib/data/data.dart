@@ -1,8 +1,8 @@
 import 'dart:convert';
-import 'package:grocery_app/core/api/api.dart';
-import 'package:grocery_app/core/utils/pastebin%20dart%20api/usecases/show_paste.dart';
-import 'package:grocery_app/data/product_model.dart';
-import 'package:grocery_app/entities/product_entity.dart';
+import 'package:r34_01/core/api/api.dart';
+import 'package:r34_01/core/utils/pastebin%20dart%20api/usecases/show_paste.dart';
+import 'package:r34_01/data/product_model.dart';
+import 'package:r34_01/entities/product_entity.dart';
 
 
 abstract class DataRepository {
