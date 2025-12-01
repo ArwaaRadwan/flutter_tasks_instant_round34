@@ -3,9 +3,7 @@ import 'package:flutter/material.dart';
 class NameStyle extends StatelessWidget {
   final double fontSize;
 
-  const NameStyle({
-    super.key,
-    required this.fontSize});
+  const NameStyle({super.key, required this.fontSize});
 
   @override
   Widget build(BuildContext context) {

@@ -20,10 +20,10 @@ class _BottomNavBarState extends State<BottomNavBar> {
   // صفحات التطبيق
   final List<Widget> _pages = [
     const HomePage(),
-    const SavePage(),
-    const CartPage(),
-    const ProfilePage(),
-    const MenuPage(),
+    // const SavePage(),
+    // const CartPage(),
+    // const ProfilePage(),
+    // const MenuPage(),
   ];
 
   @override

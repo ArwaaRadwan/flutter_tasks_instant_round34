@@ -1,3 +1,4 @@
+import 'core/config/config.dart';
 import 'package:flutter/material.dart';
 import 'package:r34_01/splash_page.dart';
 
